@@ -17,6 +17,8 @@ Neste repositório, disponibilizamos uma documentação detalhada que descreve t
 
 ## 👾 Compilação e Execução
 
+O projeto foi desenvolvido na linguagem de programação Python.
+
 Certifique-se de ter todas as bibliotecas necessárias no projeto, que estão listadas no arquivo `requirements.txt`. 
 
 Se preferir, você pode acessar e executar este projeto diretamente no Google Colab clicando no link abaixo:  
