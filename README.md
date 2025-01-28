@@ -22,7 +22,7 @@ O projeto foi desenvolvido na linguagem de programação Python.
 Certifique-se de ter todas as bibliotecas necessárias no projeto, que estão listadas no arquivo `requirements.txt`. 
 
 Se preferir, você pode acessar e executar este projeto diretamente no Google Colab clicando no link abaixo:  
-[Executar no Google Colab](https://colab.research.google.com/drive/1FxuqKlbPly8uYgzbGJnMJnimSd-ErGG4?usp=sharing)
+[Executar no Google Colab](https://colab.research.google.com/drive/1hoSz6_CU79w1otElOlEahbHxdrLzt1R5?usp=sharing)
 
 ## Contato
 <div>
