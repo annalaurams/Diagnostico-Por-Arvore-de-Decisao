@@ -4,11 +4,6 @@
 
 O objetivo deste projeto é desenvolver uma árvore de decisão capaz de identificar tumores benignos e malignos com base em atributos extraídos da base de dados `breast-cancer-wisconsin-data_data` . O foco está em integrar o desenvolvimento técnico com a aplicação prática na área da saúde, para  maior compreensão do impacto de dados e algoritmos no suporte à tomada de decisão e diagnósticos médicos.
 
-## 📄 Documentação
-
-Neste repositório, disponibilizamos uma documentação detalhada que descreve todas as etapas do projeto, incluindo a implementação do modelo e a análise dos resultados obtidos. A documentação aborda desde a exploração inicial dos dados até a interpretação da árvore de decisão gerada, bem como as métricas de desempenho do modelo.
-
-
 ## 💻 Estrutura do Projeto
 
 - `data/`: Contém o conjunto de dados utilizado no projeto.
